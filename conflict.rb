@@ -1,1 +1,1 @@
-puts("●")
+puts("maru")
